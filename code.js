@@ -23,7 +23,7 @@ console.log('code')
 // git remote -v
 // git remote remove origin
 // git remote -v
-// git remote add origin https://github.com/malgl/git-ex.git
+// git remote add origin git@github.com:malgl/git-ex.git
 // git remote -v
 // git status
 // git add .
